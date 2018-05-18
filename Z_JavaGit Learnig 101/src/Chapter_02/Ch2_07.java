@@ -2,7 +2,7 @@ package Chapter_02;
 
 import java.util.Scanner;
 
-public class Ch2_7 {
+public class Ch2_07 {
 
 	public static void main(String[] args) {
 		//create  a Scanner to obtain input from the command window 
